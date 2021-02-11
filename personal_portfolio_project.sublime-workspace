@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"random"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pr",
+				"product_delete_view"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"vali",
+				"ValidationError"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"my",
+				"my_context"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"Bi",
+				"BASE_DIR"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"Home",
+				"home_page"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hp_440/try_django/src/templates/generator/Home.html",
+		"/C/Users/Hp_440/try_django/src/templates/generator/aboutus.html",
+		"/C/Users/Hp_440/try_django/src/templates/generator/password.html",
+		"/C/Users/Hp_440/try_django/src/try_django/urls.py",
+		"/C/Users/Hp_440/try_django/src/generator/views.py",
+		"/C/Users/Hp_440/try_django/src/generator/models.py",
+		"/C/Users/Hp_440/try_django/src/generator/template/Home.html",
+		"/C/Users/Hp_440/try_django/src/generator/template",
+		"/C/Users/Hp_440/try_django/src/try_django/settings.py",
+		"/C/Users/Hp_440/try_django/src/blog/models.py",
+		"/C/Users/Hp_440/try_django/src/blog/views.py",
+		"/C/Users/Hp_440/try_django/src/blog/admin.py",
+		"/C/Users/Hp_440/try_django/src/products/models.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/admin.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/urls.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/views.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/models.py",
+		"/C/Users/Hp_440/try_django/src/templates/Product/detail.html",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/templates/article_list.html",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/templates",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/settings.py",
+		"/C/Users/Hp_440/try_django/src/templates/Blog/article_list.html",
+		"/C/Users/Hp_440/try_django/src/products/admin.py",
+		"/C/Users/Hp_440/try_django/src/products/tests.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/forms.py",
+		"/C/Users/Hp_440/try_django/src/templates/Blog/article_detail.html",
+		"/C/Users/Hp_440/try_django/src/templates/Blog/blog.html",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/wsgi.py",
+		"/C/Users/Hp_440/try_django/src/templates/nav.html",
+		"/C/Users/Hp_440/try_django/src/products/urls.py",
+		"/C/Users/Hp_440/try_django/src/products/forms.py",
+		"/C/Users/Hp_440/try_django/src/products/views.py",
+		"/C/Users/Hp_440/try_django/src/templates/Product/list.html",
+		"/C/Users/Hp_440/try_django/src/templates/Product/delete.html",
+		"/C/Users/Hp_440/try_django/src/templates/Product/product_create.html",
+		"/C/Users/Hp_440/try_django/src/templates/product/detail.html",
+		"/C/Users/Hp_440/try_django/src/templates/detail.html",
+		"/C/Users/Hp_440/try_django/src/Pages/views.py",
+		"/C/Users/Hp_440/try_django/src/Pages/models.py",
+		"/C/Users/Hp_440/try_django/src/templates/base.html",
+		"/C/Users/Hp_440/try_django/src/templates/home.html",
+		"/C/Users/Hp_440/try_django/src/templates/about.html",
+		"/C/Users/Hp_440/try_django/src/Pages/home.html",
+		"/C/Users/Hp_440/try_django/src/products/apps.py",
+		"/C/Users/Hp_440/try_django/src/try_django/views.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/__init__.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/urls.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/views.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/settings.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/templates/templates.html",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/templates.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/templates",
+		"/D/smallpython projects/pygameff.py",
+		"/C/Users/Hp_440/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/Hp_440/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-buildb.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "personal_portfolio_project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

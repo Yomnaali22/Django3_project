@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>Blog</h1>
+
+{% for Blog in blog_all %}
+
+<a href="URL 'blog_all:detail' blog_id"><h2>{{ Blog.title }}</h2><a/>
+
+<h5>{{ Blog.date }}</h5>
+
+<p>{{ Blog.description|truncatechars:100 }}</p>
+
+{% endfor %}
+
+{% endblock %}
