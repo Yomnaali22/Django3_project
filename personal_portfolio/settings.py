@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '^887%j^#&o!r1jkd)f$m9(l1uc1)^p_o#z7+ht5@o^-+^0)tu+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yom.pythonanywhere.com']
 
 
 # Application definition
@@ -121,3 +121,9 @@ USE_TZ = True
 STATIC_URL = '/static/'
 MEDIA_ROOT = (BASE_DIR / 'media')
 MEDIA_URL = '/media/'
+
+
+try:
+    from .local_settings import *
+except ImportError:
+    print('looks like no local file.You must be on production')
