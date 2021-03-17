@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"login",
+				"login"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"mod",
+				"Model"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"bo",
+				"blog"
+			],
+			[
+				"blog",
+				"blog_all"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pr",
+				"product_delete_view"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"vali",
+				"ValidationError"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"my",
+				"my_context"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"Bi",
+				"BASE_DIR"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"Home",
+				"home_page"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/about.html",
+		"/C/Users/Hp_440/personal_portfolio_project/static/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/login_system/models.py",
+		"/C/Users/Hp_440/personal_portfolio_project/login_system/views.py",
+		"/C/Users/Hp_440/personal_portfolio_project/personal_portfolio/urls.py",
+		"/C/Users/Hp_440/personal_portfolio_project/login_system/forms.py",
+		"/C/Users/Hp_440/personal_portfolio_project/login_system/urls.py",
+		"/C/Users/Hp_440/personal_portfolio_project/personal_portfolio/settings.py",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/urls.py",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/views.py",
+		"/C/Users/Hp_440/personal_portfolio_project/personal_portfolio/local_settings.py",
+		"/C/Users/Hp_440/personal_portfolio_project/personal_portfolio/asgi.py",
+		"/C/Users/Hp_440/personal_portfolio_project/login_system/templates/login.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/aboutt.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/admin.py",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/project.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/base.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/models.py",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/admin/js/actions.js",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/admin/js/vendor/jquery/jquery.js",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/script.js",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/notabout.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/text.txt",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/apps.py",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/manage.py",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/css/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/styling/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/styling/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/css/style.css",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/urls.py",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/views.py",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/templates/blogss.html",
+		"/C/Users/Hp_440/personal_portfolio_project/db.sqlite3",
+		"/C/Users/Hp_440/personal_portfolio_project/manage.py",
+		"/C/Users/Hp_440/personal_portfolio_project/requirments.txt",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/templates/detail.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/home.html",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/templates/another.htm",
+		"/C/Users/Hp_440/personal_portfolio_project/personal_portfolio/logo.jpg",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/models.py",
+		"/C/Users/Hp_440/personal_portfolio_project/personal_portfolio_project/urls.py",
+		"/C/Users/Hp_440/OneDrive/Desktop/131987825_1352631255100050_7568870479968600243_n.jpg",
+		"/C/Users/Hp_440/personal_portfolio_project/portfolio/static/psych.jpg",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/tests.py",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/templates/blogs.html",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/__init__.py",
+		"/C/Users/Hp_440/personal_portfolio_project/blog/admin.py",
+		"/C/Users/Hp_440/personal_portfolio_project/templates/project.html",
+		"/C/Users/Hp_440/try_django/src/templates/generator/Home.html",
+		"/C/Users/Hp_440/try_django/src/templates/generator/aboutus.html",
+		"/C/Users/Hp_440/try_django/src/templates/generator/password.html",
+		"/C/Users/Hp_440/try_django/src/try_django/urls.py",
+		"/C/Users/Hp_440/try_django/src/generator/views.py",
+		"/C/Users/Hp_440/try_django/src/generator/models.py",
+		"/C/Users/Hp_440/try_django/src/generator/template/Home.html",
+		"/C/Users/Hp_440/try_django/src/generator/template",
+		"/C/Users/Hp_440/try_django/src/try_django/settings.py",
+		"/C/Users/Hp_440/try_django/src/blog/models.py",
+		"/C/Users/Hp_440/try_django/src/blog/views.py",
+		"/C/Users/Hp_440/try_django/src/blog/admin.py",
+		"/C/Users/Hp_440/try_django/src/products/models.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/admin.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/urls.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/views.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/models.py",
+		"/C/Users/Hp_440/try_django/src/templates/Product/detail.html",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/templates/article_list.html",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/templates",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/settings.py",
+		"/C/Users/Hp_440/try_django/src/templates/Blog/article_list.html",
+		"/C/Users/Hp_440/try_django/src/products/admin.py",
+		"/C/Users/Hp_440/try_django/src/products/tests.py",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/forms.py",
+		"/C/Users/Hp_440/try_django/src/templates/Blog/article_detail.html",
+		"/C/Users/Hp_440/try_django/src/templates/Blog/blog.html",
+		"/C/Users/Hp_440/try_django/src/Blog/Blog/wsgi.py",
+		"/C/Users/Hp_440/try_django/src/templates/nav.html",
+		"/C/Users/Hp_440/try_django/src/products/urls.py",
+		"/C/Users/Hp_440/try_django/src/products/forms.py",
+		"/C/Users/Hp_440/try_django/src/products/views.py",
+		"/C/Users/Hp_440/try_django/src/templates/Product/list.html",
+		"/C/Users/Hp_440/try_django/src/templates/Product/delete.html",
+		"/C/Users/Hp_440/try_django/src/templates/Product/product_create.html",
+		"/C/Users/Hp_440/try_django/src/templates/product/detail.html",
+		"/C/Users/Hp_440/try_django/src/templates/detail.html",
+		"/C/Users/Hp_440/try_django/src/Pages/views.py",
+		"/C/Users/Hp_440/try_django/src/Pages/models.py",
+		"/C/Users/Hp_440/try_django/src/templates/base.html",
+		"/C/Users/Hp_440/try_django/src/templates/home.html",
+		"/C/Users/Hp_440/try_django/src/templates/about.html",
+		"/C/Users/Hp_440/try_django/src/Pages/home.html",
+		"/C/Users/Hp_440/try_django/src/products/apps.py",
+		"/C/Users/Hp_440/try_django/src/try_django/views.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/__init__.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/urls.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/views.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/settings.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/templates/templates.html",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/templates.py",
+		"/C/Users/Hp_440/trydjango/MydjangoApp/MydjangoApp/templates",
+		"/D/smallpython projects/pygameff.py",
+		"/C/Users/Hp_440/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/Hp_440/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-buildb.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

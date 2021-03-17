@@ -1,0 +1,151 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <style type="text/css">
+
+      .active {
+        background-color: #4CAF50;
+      
+      }
+
+    </style>
+    
+    <meta charset="utf-8">
+
+    <title>About Us</title>
+          
+    <meta name="author" content="Yom">
+
+    <meta name="description" content="This is an example page to demonstrate usage of metadata on web pages.">
+
+    <meta property="og:description" content="This is an example page to demonstrate usage of metadata on web pages.">
+
+    <meta property="og:title" content="Metadata; The HTML &lt;head&gt;, on MDN">
+
+    <link rel="Shortcut Icon" href="now.jpg" type="image/x-icon">
+
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+
+    <script src="{% static 'fontawesome_free/js/all.min.js' %}"></script>
+
+    <link href="{% static 'fontawesome_free/css/all.min.css' %}" rel="stylesheet" type="text/css">
+
+    <link href="{% static 'fontawesome_pro/css/fontawesome.css' %}" rel="stylesheet" type="text/css">
+
+    <link href="{% static 'fontawesome_pro/css/brands.css' %}" rel="stylesheet" type="text/css">
+
+    <link href="{% static 'fontawesome_pro/css/solid.css' %}" rel="stylesheet" type="text/css">
+
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+    <!--<script rel="script" src="{% static 'script.js' %}"defer></script>
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>--->
+
+<body>
+  <header>
+    <div class="list">
+      <ul>
+        <li><a id="home" href="http://127.0.0.1:8000/" id="home">Home</a>
+          <li><a id="blog" href="http://127.0.0.1:8000/blog/" id="blog"> Blog</a>
+            <li><a id="about" href="" id="about">About</a>
+              <li>
+                <form method="GET" action="http://127.0.0.1:8000/blog/">
+                <input id="s" type="text" name="search" placeholder="search">
+                </button>
+                <div class="dropdown">
+                  <button class="dropbtn">Make Your account</button>
+                  <div class="dropdown-content">
+                    <a href="#">Login</a>
+                    <a href="#">Sign In</a>
+                    <a href="#">Sign Up</a>
+                  </div>
+                </div>
+              </ul>
+            </div>
+          </header>
+
+
+<!---we could have multiple headers so it's best to give it an idea-->
+<header class="main_header">
+    <h1 style="color: black;
+    text-align: center;">
+    Egyptian psychedelic community</h1>
+  </header>
+
+<!--here we made a form--->
+              <div class="form">
+              <form action="" method="POST">
+                <label>First Name</label>
+                <input type="text" name="first-name" placeholder="Enter your first name"><!--div is used to create another line--->
+                <br>
+
+                <label>Last Name</label>
+                <input type="text" name="Lastname" placeholder="Enter your last name">
+                <br>
+                <br>
+                <input class="button" type="submit" name="submit">
+                <button class="button">Login</button>
+              </form>
+
+              <!----We can also create buttons outside the form with the button tag--->
+              
+            </div>
+            <div>
+
+            <!---tags are meant to communicate meaning and make structural content-->
+            <img class="img" 
+             src="{% static 'images/now.jpg' %}" alt="Photo" width="600" align="right">
+           </div>
+
+
+          <section>
+            <article class="art">
+            <!---h1>The Crushing Bore</h1-->
+
+            <!---p class="chris"--->
+          <!--By Chris Mills</p>-->
+
+            <h2>Chapter 1: The dark night</h2>
+
+            <p>
+            It was a <i>dark night</i>. Somewhere, an owl hooted. The rain lashed down on the ...
+            In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever <i>since</i>. 'Whenever you feel like criticizing anyone,' he told me, 'just remember that all the people in this world haven't had the advantages that you've had.</p>
+
+
+            <h2>Chapter 2: The eternal silence</h2>
+
+            <p>
+            Our protagonist could not so much as a whisper out of the shadowy figure
+            In my younger and <div class="dropdown">more vulnerable</div> years my father gave me some advice that I've been turning over in my mind ever since. 'Whenever you feel like criticizing anyone,' he told me, 'just remember that all the people in this world haven't had the advantages that you've had.</p>
+
+            <h3>The specter speaks</h3>
+
+            <p>
+            Several more hours had passed, when all of a sudden the specter sat bolt upright and exclaimed, "Please have mercy on my soul!In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since</p>
+          </article>
+
+        </section>
+</body>
+<!---same for the footer we can have multiple footers-->
+  <footer id="main_footer">
+
+    <table>
+
+      <tr>
+
+        <td>Contact us at</td>
+
+        <td><a id="yomna" href="">Yomnaali1718@gmail.com</a></td>
+
+      </tr>
+
+    </table>
+
+  </footer>
+
+  </html>

@@ -1,0 +1,350 @@
+{% load static %}
+
+body{
+	background-color: rgba(220, 170, 72, 0.5);
+  	font-family: 'PT Sans', sans-serif;
+  	padding: 1px;
+  	background-attachment: scroll;
+  	margin-right: 70px;
+  	margin-left: 70px;
+ }
+
+
+
+.now{
+	font-color: red;
+}
+
+
+.main_header{
+	background-size: 100px;
+	background-color: hsl(47, 100%, 95%);
+	font-size: 40px;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-variant: small-caps;
+    padding: 5px;
+    height: auto;
+    max-width: 1600px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    border-radius: 10px;
+    outline: 5px white;
+    outline-offset: 10;
+    text-decoration: none;
+    font-color:  #0c0d0d;
+    transform: rotateY(10deg);
+    transform-style: preserve-3d;
+    position: sticky;
+    margin-top: -20px;
+    opacity: 0.8;
+ }
+/*
+ 
+things i need to understand on a deeper level
+1) transform 
+2) taples
+3) lists
+4) positioning
+
+background-color: hsl(47, 100%, 95%);
+background-size: 100px;
+rgba(245, 170, 72, 0.5)
+*/
+
+/* universal elements */
+
+
+
+/* grouping elements */
+
+
+h1, h2, h3{
+	text-align: center;
+	color: #0c0d0d;
+	padding: 20px;
+	text-transform: capitalize;
+	text-indent: -60px;
+	word-spacing: 2px;
+	font-variant: small-caps;
+	font-weight: bolder;
+	margin-left: 10px;
+
+}
+
+
+h2{
+	line-height: 4;
+}
+/*
+h2{
+	background-color: red;
+	margin: 0 0 50px 0;
+}
+
+h3{
+	background-color: red;
+	margin: 20px 0 0 0;
+}
+
+/* choosing a specific element in a class */
+
+p.chris {
+	text-align: left;
+	vertical-align: top;
+	text-transform: capitalize;
+	font-color: blue;
+	color: inherit;
+}
+/*
+p {
+	text-align: left;
+	text-indent: 20px;
+	letter-spacing: 1px;
+	font-color: grey;
+}
+
+/* The difference between # id selectors and  . class */
+
+.img{
+	border-color: black;
+	border-style: solid;
+	width: 700px;
+	background-attachment: scroll;
+	border-radius: 10px;
+	transform: translate(100px, 200px);
+	transform: scale(1,1);
+	transform: scaleY(n);
+	transform-origin: top;
+	margin-right: 100px;
+	margin-left: 20px;
+	margin-bottom: 100px;
+	margin-top: 100px;
+	float: left;
+	padding: 10px;
+	line-height: 2;
+	opacity: 0.9;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+p{
+	text-align: left;
+	text-indent: 10px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #323334;
+	line-height: 1.5;
+	direction: rtl;
+	word-wrap: break-word;
+	word-break: keep-all;
+	padding: 4px;
+
+}
+
+/*
+p i:first-child {
+	color: red;
+}
+
+p::first-line{
+	color: blue;
+}
+*/
+
+.list{
+	background-color: #333;
+	border-radius: 10px;
+	list-style-type: none;
+	text-align: center; 
+	padding: 0px;
+	margin: 0;
+}
+
+.list li {
+	display: inline-block;
+	font-size: 30px;
+	padding: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+
+
+
+#home, #blog, #about{
+	font-family: serif;
+	color: white;
+	text-decoration: none;
+}
+
+#home:hover, #blog:hover, #about:hover{
+	color: lightgreen;
+}
+
+#home:link, #blog:link, #about:link{
+	color: blue;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+#s{
+	padding: 10px;
+}
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.dropdown-content {
+  right: 10;
+}
+
+
+
+
+
+
+
+/*
+#home:hover, #blog:hover, #about:hover{
+	background-color: #111;
+	text-decoration: none;
+	font-size: 150%;
+}
+
+#home:active, #blog:active, #about:active{
+	color: blue;
+	text-decoration: none;
+}
+
+#home:visited, #blog:visited, #about:visited{
+	color: white;
+	text-decoration: none;
+}
+
+#home, #blog, #about{
+	text-decoration: none;
+	display: inline;
+	word-spacing: 10px;
+	color: white;
+	display: block;
+	text-align: center;
+	padding: 20px;
+	text-decoration: none;
+	margin-right: 50px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	size: 10px;
+}
+
+
+
+
+ul.list{
+	list-style-type: none;
+	display: inline-flex;
+	margin-top: -220px;
+	padding: 10px;
+	overflow: hidden;
+	background-color: #333;
+	position: scroll;
+	width: 100%;
+	border-radius: 10px;
+}
+
+
+
+
+
+.button{
+	align-items: left;
+	background-color: #ffff;
+	padding: 5px;
+	border-color: black;
+	font-style: bold;
+}
+
+.button:hover{
+	color: red;
+}
+
+
+.form{
+	display: none;
+}
+
+
+
+
+
+.navbar{
+	background-color: black;
+}
+
+*/
+
+.form{
+	display: none;
+}
+
+#main_footer{
+	background-color: #333;
+	color: white;
+	padding: 20px;
+	clear: both;
+	border-radius: 10px;
+}
+
+#yomna{
+	color: white;
+	padding-right: 10px;
+}
+
+#yomna:hover{
+	color: red;
+}
+
